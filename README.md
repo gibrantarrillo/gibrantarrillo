@@ -26,3 +26,17 @@ Apasionado por la tecnología y entusiasmado con el aprendizaje continuo en el c
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Gibran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gibrantarrillo/)
 
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/SQL%20Server-6DB33F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
