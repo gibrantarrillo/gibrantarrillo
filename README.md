@@ -2,6 +2,8 @@
   <img decoding="async" src="https://github.com/gibrantarrillo/gibrantarrillo/blob/main/banner.png" width="800"/>
 </div>
 
+<div id="badges" align="center">
+  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibrantarrillo/)
 
 <div id="badges" align="center">
