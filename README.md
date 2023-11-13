@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/gibrantarrillo/gibrantarrillo/blob/main/banner.png" width="800"/>
+</div>
 <!--
 **gibrantarrillo/gibrantarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
