@@ -1,9 +1,17 @@
-### Hi there 👋
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/gibrantarrillo/gibrantarrillo/blob/main/banner.png" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibrantarrillo/)
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gibrantarrillo.gibrantarrillo&color=00cf00" alt=""/>
+
+<h1>
+  Hola soy Gibran. ¡Encantado de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 Here are some ideas to get you started:
 
